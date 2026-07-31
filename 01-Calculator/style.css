@@ -1,0 +1,41 @@
+body {
+    
+}
+
+#calculator {
+    font-family: cursive;
+    background-color: black;
+    border-radius: 18px;
+    max-width: 500px;
+    overflow: hidden;
+}
+
+#display {
+    width: 100%;
+    padding: 20px;
+    font-size: 5rem;
+    text-align: right;
+    border: none;
+    background-color: black;
+    margin-top: 80px;
+}
+
+#keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 25px;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    background-color: #181818;
+    color: white;
+    font-size: 2em;
+    font-family: cursive;
+    font-weight: bold;
+    cursor: pointer;
+}
