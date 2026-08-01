@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 700px;
+    background-color:antiquewhite;
+    color: #01014a;
+}
+img {
+    background-image: url(/Projects/Travel/Stockholm.jpg);
+    width: 100%;
+    height: 600px;
+    
+}
