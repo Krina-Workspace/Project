@@ -1,5 +1,5 @@
-<DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <body>
     <h2>🌸 About</h2>
     <p>Welcome to my project collection! This repository brings together the project I've built while learning and exploring different areas of web development.</p>
